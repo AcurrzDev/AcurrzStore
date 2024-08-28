@@ -1,1 +1,1 @@
-Sitemap: 
+Sitemap: https://raw.githubusercontent.com/AcurrzDev/AcurrzStore/main/sitemaps.txt
