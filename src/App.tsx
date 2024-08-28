@@ -12,10 +12,10 @@ import Portfolio from "./pages/Portfolio";
 
 function App() {
   return (
-    <Router basename="/AcurrzStore">
+    <Router>
       <Navigator />
       <Routes>
-        <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/portfolio" element={<Portfolio />} />
         {/* <Route
                 path="/contact"
