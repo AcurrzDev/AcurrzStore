@@ -6,6 +6,7 @@ import Navigator from "./components/Navigator";
 
 function App() {
   return <Navigator />;
+  <div className="Main-Div"></div>;
 }
 
 export default App;
